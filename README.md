@@ -10,8 +10,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-Date: Friday, February 18, 2022 
-Context: Trying to learn as much as possible to launch a career in Data Science. First things first, let's set some goals 💪🏾
+	Date: Friday, February 18, 2022 
+	Context: Trying to learn as much as possible to launch a career in Data Science. First things first, let's set some goals 💪🏾
 
 🔷 Title: Goals to achieve status of worthy Data Science newbie
 🔷 Format: Goal (Accomplish by date)
