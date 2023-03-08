@@ -10,7 +10,43 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-	Date: Sunday, October 30, 2022 
+	Date: **Wednesday, March 8, 2023**
+	Context: Second update since README conception. As I settle into my current job, I realize that I'm satisfied with the Tableau skills I have and need to learn other skills to call myself a holistic data analysis like python/sql/r. I want to get comfortable with predictive models and more advanced visualization tools like D3.
+
+🔷 UPDATE ON OLD GOALS:
+	1. Figure out how to post on github (March 2023): still new to it but I can say I figured it out
+	2. 20 creations on Tableau Public (January 2023): currently at 10
+	3. Datacamp Data Analyst Professional certified (Februaru 2023): slowed down on datacamp :( need to get back on it
+	4. Get started on Data Scientist Profesional on datacamp (February 2023): slowed down on datacamp :( need to get back on it
+	5. Get a job using more python and SQL: work in progress
+	6. Get a full time job: work in progress
+	7. Coding challenge!: signed up for one... didn't submit
+	
+🔷 NEW SET OF GOALS:
+	1. Finish majority of Udemy courses
+	2. 5 things on github
+	3. Understand predictive models
+	4. Comfortable with python and SQL
+
+
+🔶 Projects Topics:
+1. Kaggle datasets - aim to be the same level as bootcamp projects
+
+__________________________________________________________________________________________________________________________________________________________
+
+- 👋 Hi, I’m @kimsarsem
+- 👀 I’m interested in starting a career in data science. I'm starting off with buildig my Data Analytics skills. I work as a Data Analyst primariliy building dashboards in Tableau and SF's CRM Analytics.
+- 🌱 I’m currently building coding skills in the Data Analyst track on Datacamp. I've completed 2 guided projects so far. I still don't know how to post onto github...
+- 💞️ I’m looking to do more projects. Consistency is everything! 
+- 📫 Until I figure out how to post projects... message me any way!
+
+<!---
+kimsarsem/kimsarsem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+
+	Date: **Sunday, October 30, 2022 **
 	Context: First update since README conception. Building Data Analyst skills in python, R, SQL, and Tableau. Just got Tableau Data Analyst certified yesterday! 
 
 🔷 UPDATE ON OLD GOALS:
@@ -54,7 +90,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-	Date: Friday, February 18, 2022 
+	Date: Friday, **February 18, 2022 **
 	Context: Trying to learn as much as possible to launch a career in Data Science. First things first, let's set some goals 💪🏾
 
 🔷 Title: Goals to achieve status of worthy Data Science newbie
